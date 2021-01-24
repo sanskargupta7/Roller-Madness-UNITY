@@ -1,0 +1,12 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Box Shooter\Assets\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs">
+    <Files>
+      <File FileName="..\Box Shooter\Assets\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" Line="121" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
